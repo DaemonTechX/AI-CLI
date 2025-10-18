@@ -15,7 +15,7 @@ cd AI-CLI
 pip install Crypto
 pip install pycryptodome
 ls
-python AI_CLI
+python AI_CLI.py
 ```
 
 > [!CAUTION] 
