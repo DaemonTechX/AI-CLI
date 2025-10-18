@@ -12,7 +12,7 @@ pkg install python
 pkg install git
 git clone https://github.com/DaemonTechX/AI-CLI
 cd AI-CLI
-pip install Crypto
+pip install crypto
 pip install pycryptodome
 ls
 python AI_CLI.py
